@@ -1,0 +1,31 @@
+Toyota Camry Sedan 2022 Automatic 25000
+Honda Civic Sedan 2023 Manual 22500
+Ford Mustang Coupe 2021 Automatic 35000
+Chevrolet Silverado Truck 2020 Automatic 40000
+Tesla Model 3 Sedan 2024 Automatic 45000
+BMW 3 Series Sedan 2022 Automatic 50000
+Audi Q5 SUV 2023 Automatic 55000
+Mercedes-Benz E-Class Sedan 2022 Automatic 60000
+Toyota Prius Hatchback 2023 Automatic 30000
+Honda Accord Sedan 2022 Automatic 28000
+Ford F-150 Truck 2023 Automatic 38000 
+Chevrolet Corvette Coupe 2022 Manual 70000
+Tesla Model S Sedan 2023 Automatic 85000
+BMW 5 Series Sedan 2021 Automatic 55000
+Audi A4 Sedan 2022 Automatic 40000
+Mercedes-Benz C-Class Sedan 2023 Automatic 45000
+Lexus RX SUV 2023 Automatic 50000
+Toyota RAV4 SUV 2022 Automatic 32000
+Honda CR-V SUV 2023 Automatic 30000
+Ford Explorer SUV 2021 Automatic 40000
+Chevrolet Tahoe SUV 2022 Automatic 55000
+Tesla Model X SUV 2023 Automatic 90000
+BMW X5 SUV 2022 Automatic 65000
+Audi Q7 SUV 2023 Automatic 70000
+Mercedes-Benz GLC SUV 2021 Automatic 55000
+Lexus ES Sedan 2022 Automatic 45000
+Toyota Highlander SUV 2023 Automatic 40000
+Honda Pilot SUV 2022 Automatic 35000
+Ford Expedition SUV 2021 Automatic 60000
+Chevrolet Suburban SUV 2022 Automatic 65000
+Tesla Cybertruck Pickup 2024 Automatic 70000
